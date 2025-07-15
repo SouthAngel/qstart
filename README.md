@@ -1,0 +1,2 @@
+# qstart
+quick start lnk
