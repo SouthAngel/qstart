@@ -8,4 +8,6 @@ quick start lnk
 1. python 运行 qstart.py
 ```cmd
 python qstart.py
+# OR
+pythonw qstart.py
 ```
